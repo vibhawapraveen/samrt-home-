@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897518654050",
+    "project_id": "smart-home-monitor-88c3b",
+    "storage_bucket": "smart-home-monitor-88c3b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897518654050:android:2cb30b295fb07cf6ac773b",
+        "android_client_info": {
+          "package_name": "com.smarthomemonitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo1ZkFPj_aeikNDI5c-xf7PnJcCDKWunI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

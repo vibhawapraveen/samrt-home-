@@ -1,0 +1,48 @@
+# ============================================================
+# ANDROID / GRADLE
+# ============================================================
+.gradle/
+build/
+app/build/
+captures/
+*.ap_
+*.class
+*.dex
+proguard/
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Kotlin incremental compilation cache
+.kotlin/
+
+
+# ============================================================
+# FIREBASE FUNCTIONS
+# ============================================================
+functions/node_modules/
+functions/lib/
+functions/.env
+functions/.env.*
+
+# ============================================================
+# LARGE / GENERATED FILES
+# ============================================================
+logcat.txt
+
+# ============================================================
+# OS / EDITOR
+# ============================================================
+.DS_Store
+Thumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.vscode/*
+!.vscode/extensions.json
